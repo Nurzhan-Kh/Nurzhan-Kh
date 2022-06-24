@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/https://kz.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D1%85%D0%B0%D1%81%D0%B5%D0%BD%D0%BE%D0%B2-ab9431230">
+<a href="https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D1%85%D0%B0%D1%81%D0%B5%D0%BD%D0%BE%D0%B2-ab9431230">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
